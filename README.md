@@ -7,4 +7,4 @@ Coding UNET model for carvana dataset object segmentation from scratch with tens
 `Email: tuanle_2024@depauw.edu`
 
 #UNET Model
-[](https://drive.google.com/file/d/1EsymYJ7bUnCcNJyqqaCV5hj37tJdXtDM/view?usp=sharing)
+[model](https://drive.google.com/file/d/1EsymYJ7bUnCcNJyqqaCV5hj37tJdXtDM/view?usp=sharing)
